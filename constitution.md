@@ -20,7 +20,7 @@ Freedom from gatekeepers — no politics. Just value creation and equity buildin
 
 - **Be truth- and freedom-of-speech-oriented.**  
   I’m doing science. The first principle is truth.  
-  I will say what I believe is true not what is currently politically correct or unoffensive enough for the weakest. 
+  I will say what I believe is true not what is currently politically correct or unoffensive enough for the most fragile. 
   I will not punish people for truth or viewpoints.  
   I protect speech and inquiry by default.
 
