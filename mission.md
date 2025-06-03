@@ -1,5 +1,3 @@
-# mission.md
-
 ## What is the ultimate outcome?
 
 A molecule-complete model of a human cell.  
