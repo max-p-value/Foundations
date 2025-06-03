@@ -24,17 +24,18 @@ Freedom from gatekeepers — no politics. Just value creation and equity buildin
   I will not punish people for truth or viewpoints.  
   I protect speech and inquiry by default.
 
-- **Grow post-academic science.**  
-  Academia betrayed its core: truth, fairness, merit, freedom.  
-  Academic science is in decline. Gatekeepers throttle innovation. Truth is second to politics. Credentialism overrides competence. Peer review has become risk-averse groupthink.  
-  I help build the counter-culture - grow the post-academia:
-Science is changing. A growing number of people are doing serious, high-quality work outside of universities — in the open, on their own terms.
+- **Grow post-academic science.**
+  Academia betrayed its core: truth, fairness, merit, freedom.
+  Academic science is in decline. Gatekeepers throttle innovation. Truth is second to politics. Credentialism overrides competence. Peer review 
+  has become risk-averse groupthink.
+  I help build the counter-culture — post-academia.
+  Science is changing. A growing number of people are disillusioned with academia and doing serious, high-quality work outside of universities.
 
-The core difference?
-Legacy science is funded by institutions.
-Post-academic science is funded by results.
+  The core difference?
+  Legacy science is funded by institutions.
+  Post-academic science is funded by results.
 
-I'll write more about this shift [in this blog post → link coming soon].
+  I'll write more about this shift [in this blog post → link coming soon].
 
 - **Build from a positive balance sheet.**  
   I start with $0. A laptop. Time. Drive.  
