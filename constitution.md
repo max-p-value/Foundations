@@ -1,6 +1,6 @@
 # Constitution.md
 
-## I’m building for my personal freedom.
+## I’m building a startup for my personal freedom.
 
 **Freedom to say what the fuck I want to say.**  
 Freedom from gatekeepers — no begging for funding, promotions, permission, or praise.  
