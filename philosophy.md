@@ -1,4 +1,3 @@
-# Philosophy
 
 Usefulness lies in the right level of abstraction.  
 A perfect copy of reality is just reality — not a model.  

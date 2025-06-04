@@ -1,5 +1,3 @@
-# Constitution.md
-
 ## I’m building a startup for my personal freedom.
 
 **Freedom to say what the fuck I want to say.**  
