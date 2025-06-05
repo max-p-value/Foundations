@@ -27,3 +27,6 @@ Every part of this project is transparent and compounding — designed to grow o
 ## 🚧 Work in Progress
 
 This is a living project. Expect changes. Contributions are welcome soon. For now, I’m just building.
+
+📝 find out more on 
+[Substack](https://open.substack.com/pub/teleos/p/building-something-too-big?r=5syomd&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
