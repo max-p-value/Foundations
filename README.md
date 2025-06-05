@@ -30,5 +30,5 @@ This is a living project. Expect changes. Contributions are welcome soon. For 
 
 📘 [Start here →](docs/start-here.md)
 
-📝 find out more here 
+📝 find out more on 
 [Substack](https://open.substack.com/pub/teleos/p/building-something-too-big?r=5syomd&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
