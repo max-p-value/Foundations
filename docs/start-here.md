@@ -1,5 +1,3 @@
-# Start Here
-
 This project is called **Teleos**.
 
 It’s an independent moonshot to build a **molecule-complete, modular, composable model of human cells** — starting small and scaling organically.
