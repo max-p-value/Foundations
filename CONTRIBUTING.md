@@ -23,7 +23,7 @@ and modular design standards.
 ## 📬 Feedback and Discussion
 
 Please open an issue if you have ideas or want to engage. You can also follow project progress on 
-[Substack](https://teleos.substack.com) or [GitHub Discussions](link if enabled).
+[Substack](https://teleos.substack.com) or [GitHub Discussions](https://github.com/max-p-value/Teleos/discussions).
 
 Thanks for your interest in Teleos!
 
